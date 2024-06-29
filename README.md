@@ -2,7 +2,7 @@
 - 👀 I’m interested in ...Data Analytics
 - 🌱 I’m currently learning ...Python
 - 💞️ I’m looking to collaborate on ...DS_Projects
-- 📫 How to reach me ...bashatab99@gmail.com
+- 📫 How to reach me ... bashatab99@gmail.com
 - 😄 Pronouns: ...BigB
 - ⚡ Fun fact: ...Still_Love_to_Oldcars
 
